@@ -35,3 +35,8 @@ tfoot td {
 .cor-tabela {
   background: rgb(167, 251, 251);
 }
+
+.responsive-table {
+  max-width: 100%;
+  overflow-y: auto;
+}
